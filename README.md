@@ -1,3 +1,9 @@
-# strange-r-things.github.io
+Hi, this is my Github Site.
 
-Just some text here
+# Stefan
+
+## Data
+
+## Publications
+
+## CV
